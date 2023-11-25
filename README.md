@@ -1,8 +1,6 @@
 # GROUP6_PROG6001_A2
 
-Start Assignment 2 below:
-<------------------------------------------------------------------>
-
-Group Members:
-Gimhani Kavishika
-Alshan Rajbanshi
+# Group Members:
+## Anil Singh
+## Gimhani Kavishika
+## Alshan Rajbanshi
